@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArpitBlagan
 - 👀 I’m interested in Web Development and competitive coding.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me Email:arpitblagan27@gmail.com
+- 📫 How to reach me Email:arpitblagan27@gmail.com.
 
 <!---
 ArpitBlagan/ArpitBlagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
