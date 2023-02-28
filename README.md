@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArpitBlagan
 - 👀 I’m interested in Web Development and competitive coding.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and nodejs.
 - 📫 Email:arpitblagan27@gmail.com.
 
 <!---
