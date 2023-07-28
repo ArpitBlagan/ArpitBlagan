@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArpitBlagan
-- 👀 I’m interested in MERN and competitive coding.
-- 🌱 I’m currently learning React and nodejs.
+- 👀 FullStack (mern)
 - 📫 Email:arpitblagan27@gmail.com.
 
 <!---
