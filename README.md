@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ArpitBlagan
 - 👀 FullStack (mern)
-- 📫 Email:arpitblagan27@gmail.com.
+- 📫 Email:arpitblagan27@gmail.com
+- LeetCode : https://leetcode.com/arpit-_123/
+- Codeforces : https://codeforces.com/profile/arpitblagan27
+- CodeChef : https://www.codechef.com/users/m_r_beginner69
 
 <!---
 ArpitBlagan/ArpitBlagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
