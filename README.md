@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **arpitblagan27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/arpit-blagan-79081b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-blagan-79081b193" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/m_r_beginner69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m_r_beginner69" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arpit-_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpit-_123" height="30" width="40" /></a>
