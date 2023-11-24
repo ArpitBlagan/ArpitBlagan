@@ -5,7 +5,6 @@
 </p>
 <h3 align="center">A passionate and aspiring MERN developer.</h3>
 
-- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
