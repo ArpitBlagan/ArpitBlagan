@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **arpitblagan27@gmail.com**
-- 🚀 Resume Link **https://drive.google.com/file/d/163randK2qOs-VOvGX9UifgkKPrgFGQGP/view?usp=sharing*
+- 🚀 Resume Link **https://drive.google.com/file/d/163randK2qOs-VOvGX9UifgkKPrgFGQGP/view?usp=sharing**
 <!---
 ArpitBlagan/ArpitBlagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
